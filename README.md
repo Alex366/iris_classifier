@@ -23,7 +23,7 @@ A simple Python project that uses the Iris dataset to build a machine learning m
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/iris-classifier.git
+   git clone https://github.com/Alex366/iris-classifier.git
    cd iris-classifier
 2. **Install the required packages:**
 pip install -r requirements.txt
